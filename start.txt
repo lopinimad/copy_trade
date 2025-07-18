@@ -1,0 +1,7 @@
+Master
+py -3.8 miq.py
+
+Client
+py -3.8 cpo.py
+py -3.8 cqu.py
+py -3.8 ciq.py

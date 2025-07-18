@@ -1,0 +1,12 @@
+{
+    "account_1": {
+        "login": 0,
+        "password": "passs here",
+        "server": "Exness-MT5Trial"
+    },
+    "account_2": {
+        "login": 0,
+        "password": "pass here",
+        "server": "Exness-MT5Trial"
+    }
+}
